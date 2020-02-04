@@ -38,4 +38,6 @@ the syndrome table and such.
 This is an implementation of LZW(Lempel-Ziv-Welsh), lossless data compression algorithm. It is  in the widely usen Unix file compression utility compress, and is used in the GIF image format.
 
 This script needs some fixes, it can not handle linebreaks yet. Fix as in huffman. 
+### About LZW
+This is a matlab function which compresses an input file using the Lempel-Ziv-Welch (LZW) algorithm. The LZW algorithm is widely used today and can for an instance be found in the Unix file compression utility compress, and it is also used in the GIF image format. This is my implementation written to understand compression algorithms. 
 
